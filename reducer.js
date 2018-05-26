@@ -71,7 +71,7 @@ function applyAddSecond(state) {
     }
 }
 
-// Exports (버튼이 이행하는 명령들)
+// Exports
 const actionCreators = {
     startTimer,
     restartTimer,
